@@ -20,5 +20,5 @@ Cybersecurity analyst with hands-on experience in SOC operations, network securi
 3. [Incident Response Simulation](link)
 
 ## 📧 Contact
-- LinkedIn: [your-linkedin-url]
-- Email: your.email@example.com
+- LinkedIn: [https://www.linkedin.com/in/ronald-dotel-8b870992/]
+- Email: dotel.ronald@gmail.com
