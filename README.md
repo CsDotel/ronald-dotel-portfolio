@@ -115,7 +115,7 @@ Watch the video: https://youtu.be/v5XY1vRrUwQ
 ## Contact & Links
 
 Email: dotel.ronald@gmail.com  
-LinkedIn: https://www.linkedin.com/in/ronalddotel  
+LinkedIn: https://www.linkedin.com/in/ronald-dotel-8b870992/?locale=en_US
 GitHub: https://github.com/CsDotel
 
 ---
