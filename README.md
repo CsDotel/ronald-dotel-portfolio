@@ -51,7 +51,7 @@ I am seeking a **Junior Cybersecurity or SOC Analyst role** where I can continue
 ## Certifications & Training
 
 - **Google Cybersecurity Professional Certificate** — Completed  
-- **Herramientas y Técnicas de Ciberseguridad (ITLA)** — Completed (40 hours)  
+- **Herramientas y Técnicas de Ciberseguridad (ITLA)** — Completed 
 - **Cisco CyberOps Associate** — Completed  
 - **Linux Essentials (Linux Professional Institute)** — Completed  
 - **Introduction to Cybersecurity Workshop (ITLA)** — Completed  
