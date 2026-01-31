@@ -1,62 +1,126 @@
 # Ronald Dotel | Cybersecurity Portfolio
 
-## 🛡️ About Me
+## About Me
 
-Hello! I'm **Ronald Dotel**, a cybersecurity analyst and educator passionate about defending digital environments through proactive threat detection, incident response, and network security. With hands-on experience in security audits, SQL database management, and Linux system administration, I am dedicated to applying practical skills to safeguard systems against evolving threats.
+IT Educator with a solid foundation in cybersecurity and networking, currently transitioning into a **Junior Cybersecurity / SOC-oriented role**.
 
-Currently, I serve as a **Computer Science Teacher and IT Support Specialist** at **Liceo Profesor German Martinez Tavarez**, where I educate students on computer science fundamentals and provide technical support.
+I have completed the **Google Cybersecurity Professional Certificate** and multiple institutional training programs at **ITLA**, building practical knowledge in security fundamentals, threat analysis, risk management, incident response basics, Linux, SQL, and network security concepts.
 
-I'm also pursuing Google's Cybersecurity certification to further enhance my expertise in the dynamic field of cybersecurity.
+I am currently enrolled in the **Cisco Certified Network Associate (CCNA)** program, strengthening my networking skills as a key pillar for defensive security and SOC environments. My short-term goal includes obtaining **CompTIA Security+**, while my long-term academic plan may include a **Master’s degree in Cybersecurity**.
 
----
+My background in education has strengthened my ability to document processes, communicate technical concepts clearly, and work with structured methodologies—skills directly applicable to security operations and entry-level SOC environments.
 
-## 💻 Technical Skills
-
-- **Network Security:** Wireshark, Nmap, Network Traffic Analysis  
-- **System Administration:** Linux (Ubuntu, Kali Linux), Command-line Tools, Bash Scripting  
-- **Database Security:** SQL Queries, Database Auditing  
-- **Incident Response:** Documentation, Triage, Threat Identification  
-- **Cybersecurity Tools:** Wireshark, tcpdump, Nessus, VirtualBox  
-- **Programming and Scripting:** Python scripting, SQL querying, Bash scripting  
+I am seeking a **Junior Cybersecurity or SOC Analyst role** where I can continue learning, contribute responsibly, and grow within a security-focused team.
 
 ---
 
-## 📚 Certifications
+## Core Focus Areas
 
-- ✅ **Google Cybersecurity Certificate** *(In Progress)*
-- ✅ **Cisco CyberOps Associate** *(Completed)*
-- ✅ **CompTIA Security+** *(In Progress)*
-- ✅ **Linux Essentials (Linux Professional Institute)** *(Completed)*
-- ✅ **Taller Introducción a la Ciberseguridad – ITLA** *(Completed)*
-
----
-
-## 📂 Featured Projects
-
-### 1. Network Security Audit
-- Conducted comprehensive security audits using Nmap, Wireshark, and firewall configurations.
-- Identified critical vulnerabilities and recommended actionable security improvements.
-
-### 2. SQL Database Vulnerability Analysis
-- Performed detailed security tests on SQL databases.
-- Optimized secure query practices and documented thorough vulnerability assessments.
-
-### 3. Incident Response Simulation
-- Managed realistic cybersecurity incident scenarios.
-- Executed effective triage processes and maintained detailed incident documentation.
-
-*(Explore each project folder for detailed reports, methodologies, and documented outcomes.)*
+- Blue Team and defensive security  
+- Network security fundamentals  
+- Incident detection and response basics  
+- Linux systems and access control  
+- Security documentation and reporting  
 
 ---
 
-## 📫 Contact Me
+## Technical Skills
 
-Feel free to connect with me professionally:
+### Cybersecurity & Networking
+- Network traffic analysis  
+- Vulnerability assessment fundamentals  
+- Incident response and documentation  
+- Risk identification and mitigation concepts  
 
-- 📧 **Email:** [dotel.ronald@gmail.com](mailto:dotel.ronald@gmail)  
-- 💼 **LinkedIn:** [Ronald Dotel](https://www.linkedin.com/in/ronald-dotel-8b870992)
+### Systems
+- Linux (Ubuntu, Kali Linux)  
+- File andlC directory permissions  
+- User and access management  
+- Bash scripting fundamentals  
+
+### Tools & Technologies
+- Wireshark  
+- Nmap  
+- tcpdump  
+- Nessus  
+- VirtualBox  
+- SQL  
 
 ---
 
-Thanks for visiting my cybersecurity portfolio! I'm always open to collaboration, discussions, and new opportunities in cybersecurity.
+## Certifications & Training
+
+- **Google Cybersecurity Professional Certificate** — Completed  
+- **Herramientas y Técnicas de Ciberseguridad (ITLA)** — Completed (40 hours)  
+- **Cisco CyberOps Associate** — Completed  
+- **Linux Essentials (Linux Professional Institute)** — Completed  
+- **Introduction to Cybersecurity Workshop (ITLA)** — Completed  
+- CompTIA Security+ — In progress  
+- Cisco Certified Network Associate (CCNA) — In progress  
+
+---
+
+## Featured Projects
+
+### Network Security Audit
+- Conducted basic network security assessments using Nmap and Wireshark  
+- Identified exposed services and misconfigurations  
+- Documented findings and security recommendations  
+
+### SQL Database Vulnerability Analysis
+- Analyzed insecure SQL queries and access controls  
+- Applied secure querying practices  
+- Documented vulnerabilities and mitigation steps  
+
+### Incident Response Simulation
+- Simulated real-world cybersecurity incident scenarios  
+- Performed initial triage and analysis  
+- Created structured incident response documentation  
+
+Each project includes documentation, methodology, and findings inside its respective folder.
+
+---
+
+## Video Walkthroughs
+
+This section includes recorded walkthroughs of selected labs, focused on explaining methodology, tools used, and security implications.
+
+### Linux File & Directory Permissions Lab
+Hands-on walkthrough exploring Linux file and directory permissions, user access control, and common security risks caused by misconfigurations.
+
+Watch the video: https://youtu.be/v5XY1vRrUwQ
+
+
+
+---
+
+## External Documentation & Reports
+
+- **Digital Forensics Lab – Artifact and Cache Analysis (PDF)**  
+  Detailed forensic analysis covering Windows thumbnail databases, browser cache artifacts, Office document metadata, and forensic image examination using industry tools.  
+  https://drive.google.com/file/d/1UVKWwqxh3oqTFp2Nc64qhWKAimnMScZC/view?usp=drive_link
+
+
+---
+
+## Current Learning Path
+
+- SOC operations fundamentals  
+- Network security (CCNA-aligned)  
+- Incident response workflows  
+- Defensive security practices  
+
+---
+
+## Contact & Links
+
+Email: dotel.ronald@gmail.com  
+LinkedIn: https://www.linkedin.com/in/ronalddotel  
+GitHub: https://github.com/ronald-dotel  
+
+---
+
+Thank you for visiting my portfolio.  
+Feel free to explore the repositories and documentation.
+
 
