@@ -90,7 +90,9 @@ Hands-on walkthrough exploring Linux file and directory permissions, user access
 
 Watch the video: https://youtu.be/OALzL0VBKuc
 
+### Mastering Linux Permissions: Hands-on Lab on Managing File Authorization
 
+Watch the video: https://youtu.be/v5XY1vRrUwQ
 
 ---
 
