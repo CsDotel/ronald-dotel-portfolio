@@ -88,7 +88,7 @@ This section includes recorded walkthroughs of selected labs, focused on explain
 ### Linux File & Directory Permissions Lab
 Hands-on walkthrough exploring Linux file and directory permissions, user access control, and common security risks caused by misconfigurations.
 
-Watch the video: https://youtu.be/v5XY1vRrUwQ
+Watch the video: https://youtu.be/OALzL0VBKuc
 
 
 
